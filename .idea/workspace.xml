@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec1ae6f-e26a-42a6-bebd-28d97b3789f1" name="Changes" comment="kk">
-      <change afterPath="$PROJECT_DIR$/out/production/pierwszyProgram/Zadania/zadaniastring.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/zadaniastring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/123456" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/123456.pub" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +30,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;maxsiu99&quot;,
+      &quot;author&quot;: &quot;maxsiu99&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maxsiu99&quot;,
+    &quot;author&quot;: &quot;maxsiu99&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">
@@ -46,12 +55,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M2Iy9CdQNhnZugeC8a9FeaFLk1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "settings.editor.selected.configurable": "vcs.Perforce"
@@ -88,6 +101,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676959502937</updated>
     </task>
+    <task id="LOCAL-00001" summary="kk">
+      <created>1678957668964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678957668964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -113,6 +134,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="kk" />
     <option name="LAST_COMMIT_MESSAGE" value="kk" />
   </component>
