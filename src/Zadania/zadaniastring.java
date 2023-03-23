@@ -20,6 +20,7 @@ d) zamień w nazwisku litery 'a' na 'e' i zobacz czy coś się zmieniło
         String imie = "Michal";
         String nazwisko = "Wolny";
         String imieNazwisko = "Michal Wolny";
+        String imiee = "Michał";
 
         System.out.println("zmienna imie zawiera " + imie.length() + " znakow");
         System.out.println("zmienna nazwiso zawiera " + nazwisko.length() + " znakow");
@@ -70,5 +71,8 @@ z
         for( int i= ciag.length -1; i>=0 ; i--){
             System.out.println(ciag[i]);
         }
+        System.out.println();
+        System.out.println("zadanie Karola");
+        System.out.println(imiee);
     }
 }

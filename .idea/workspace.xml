@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec1ae6f-e26a-42a6-bebd-28d97b3789f1" name="Changes" comment="kk">
-      <change afterPath="$PROJECT_DIR$/123456" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/123456.pub" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/123456" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/123456.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pierwszyProgram/Zadania/zadaniastring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pierwszyProgram/Zadania/zadaniastring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zadania/zadaniastring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadania/zadaniastring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +64,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "vcs.Perforce"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.PierwszyProgram">
     <configuration name="PierwszyProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poczatek.PierwszyProgram" />
@@ -108,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678957668964</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="kk">
+      <created>1679034490274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679034490274</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
