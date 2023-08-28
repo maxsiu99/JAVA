@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec1ae6f-e26a-42a6-bebd-28d97b3789f1" name="Changes" comment="kk">
-      <change afterPath="$PROJECT_DIR$/fragment-kopoia.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/IO_File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Klasy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/KlasyDziedziczenie/MainDziedziczenie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/KlasyDziedziczenie/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/KlasyDziedziczenie/Pracownik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/KlasyMatma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/KlasyTablica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Podsumowanie/Philips/P43US445.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Podsumowanie/Philips/TelewizorPhilips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Podsumowanie/PodsumowanieMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Podsumowanie/Samsung/TvSamsung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Podsumowanie/Samsung/UE43RU172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Podsumowanie/Telewizor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Programista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Scanner/ScanerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Watki/CzasoOdmierzacz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Watki/WatkiMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Watki/Wyscig1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Wtjatki/KlasyMatma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Wtjatki/LiczbaUjemnaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Wtjatki/WyjatkiDzielenieException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/Wtjatki/WyjatkiZadania.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/zadania_abstrakcja_interfejs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/zadania_abstrakcja_interfejs/Zadanie1/GwiazdaSmierci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/zadania_abstrakcja_interfejs/Zadanie1/StacjaKosmiczna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/zadania_abstrakcja_interfejs/Zadanie2/Figury.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/zadania_abstrakcja_interfejs/Zadanie2/Kolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadania/zadania_abstrakcja_interfejs/Zadanie2/Prostokat.java" afterDir="false" />
+    <list default="true" id="2ec1ae6f-e26a-42a6-bebd-28d97b3789f1" name="Changes" comment="dodanie wszystkich programów i zadań">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +66,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/aprogramy/KursJava/ImportBazySQL",
+    "last_opened_file_path": "D:/aprogramy/KursJava/pierwszyProgram",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -160,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679553355912</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dodanie wszystkich programów i zadań">
+      <created>1693216013710</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693216013710</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dodanie wszystkich programów i zadań">
+      <created>1693216098916</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693216098916</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -177,6 +162,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="363dc023-db27-46eb-ba65-2cd8f672cca3">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -184,11 +174,17 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="363dc023-db27-46eb-ba65-2cd8f672cca3" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="kk" />
-    <option name="LAST_COMMIT_MESSAGE" value="kk" />
+    <MESSAGE value="dodanie wszystkich programów i zadań" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodanie wszystkich programów i zadań" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
